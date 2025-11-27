@@ -1,4 +1,4 @@
 def add(x: int, y: int) -> int:
-    """Adds two numbers."""
+    """Adds two numbers and returns."""
 
     pass
